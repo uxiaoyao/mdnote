@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-
+* [准备](README.md)
 * [1. 介绍](Markdown/charpter1.md)
 * [2. 标题](Markdown/charpter2.md)
 * [3. 段落](Markdown/charpter3.md)
