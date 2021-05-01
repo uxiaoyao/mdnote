@@ -13,3 +13,14 @@ $(document).ready(function () {
     alert('RUNOOB');
 });
 ```
+
+
+```python
+import os
+class People:
+    def __init__(self):
+        self.name=''
+
+printf()
+printf('hello world!')  
+```
