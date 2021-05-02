@@ -44,6 +44,7 @@ bg #将一个在后台暂停的命令，变成在后台继续执行。如果后�
 jobs #查看后台运行的状态，jobs -l选项可显示所有任务的PID
 ps -ef | grep command 或者 ps aux | grep command #查看进程
 kill -9 进程id #杀掉对应的进程  
+  
    
 #### 更高级的用法如下：  
     

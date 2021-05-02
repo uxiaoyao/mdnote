@@ -1,0 +1,6 @@
+{
+  "plugins": ["editlink"],
+  "pluginsConfig": {
+      "editlink": {"base":"https://gitee.com/xiaoyaoapp/mdnote.git"}
+  }
+}
