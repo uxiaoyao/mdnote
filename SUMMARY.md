@@ -12,3 +12,9 @@
   * [8. 图片](Markdown/charpter8.md)
   * [9. 表格](Markdown/charpter9.md)
   * [10. 高级技巧](Markdown/charpter10.md)
+  * 
+* [学习笔记：流程管理](Flow/charpter1.md)
+  * [1. 为什么要学习领导力？](Flow/charpter1.md)
+
+* [学习笔记：人性的弱点](Flow/charpter1.md)
+  

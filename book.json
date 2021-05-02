@@ -1,5 +1,8 @@
 {
   "plugins": [
-  "chapter-fold"
-]
+  "chapter-fold",  "mermaid-gb3"
+],
+"pluginsConfig": {
+
+}
 }
