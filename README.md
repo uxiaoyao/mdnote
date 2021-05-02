@@ -51,3 +51,6 @@ kill -9 进程id #杀掉对应的进程
     ps aux | grep command | grep -v grep | awk '{print $1}' | xargs kill -9 
 #这个表示直接通过command获取进程id并直接kill掉
 
+```bash
+ssh root@47.119.134.151
+```
