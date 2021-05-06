@@ -16,5 +16,6 @@
 * [学习笔记：流程管理](Flow/charpter1.md)
   * [1. 为什么要学习领导力？](Flow/charpter1.md)
 
-* [学习笔记：人性的弱点](Flow/charpter1.md)
-  
+* [学习笔记：人性的弱点](read_note/README.md)
+
+* [新街校区暑假](school/summer.md)
